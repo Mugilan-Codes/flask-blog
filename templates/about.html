@@ -3,7 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>About Page</title>
+    {% if title %}
+    <title>Flask Blog - {{ title }}</title>
+    {% else %}
+    <title>Flask Blog</title>
+    {% endif %}
   </head>
   <body>
     <h1>This is a About Page</h1>
