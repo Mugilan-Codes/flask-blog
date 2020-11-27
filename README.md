@@ -1,4 +1,14 @@
-# Blog
+# Flask-Blog
+
+> By [Mugilan](https://github.com/Mugilan-Codes)
+
+## Todo
+
+- Cleanup old Profile Pics
+- Add and delete posts
+- Change to MongoDB instead of SQLAlchemy
+- Paginate Posts to Home page
+- Refactor Code
 
 ## How to Run
 
@@ -27,3 +37,5 @@
   from flaskblog import db
   db.create_all()
   ```
+
+> [Flask-Blog Github Link](https://github.com/Mugilan-Codes/flask-blog)
