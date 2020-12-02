@@ -13,13 +13,19 @@ posts = [
         "author": "Mugilan E.S.",
         "title": "Blog Post 1",
         "content": "First Post Content",
-        "date_posted": "April 23, 1999",
+        "date_posted": "April 23, 2019",
     },
     {
         "author": "Samantha",
         "title": "Blog Post 2",
         "content": "Second Post Content",
         "date_posted": "October 18, 2020",
+    },
+    {
+        "author": "Aravindh",
+        "title": "Blog Post 3",
+        "content": "This is a dummy blog content",
+        "date_posted": "September 2, 2020",
     },
 ]
 
